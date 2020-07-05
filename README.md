@@ -1,5 +1,6 @@
 # Tizen Accelerometer + Gyroscope app
 Author: Nguyen Viet Thanh Dat
+
 This app has been written in **C** for **Tizen 2.3.1**, using the Samsung Gear S2 watch. 
 The goal of the project was to enable one to collect accelerometer and gyroscope data from the watch that can later be used for other development purposes.
 These may include tracking user motions and advanced machine learning of the data. 
